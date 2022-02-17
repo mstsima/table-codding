@@ -1,0 +1,32 @@
+td{
+padding: 10px 20px;
+font-size: 20px;
+text-align: center; 
+box-shadow: 4px 5px 23px black;
+
+}
+td:hover{
+    background-color: red;
+    transition: 1s;
+}
+body{
+    margin: auto;
+    width: 100%;
+background-color: brown;}
+table{
+margin-top: 50px;
+border: none;
+
+}
+p{
+margin-top: 50px;
+
+}
+h1{
+    font-size: 100px;
+    color: white;
+
+}
+.form{
+    opacity: 0.4;
+}
